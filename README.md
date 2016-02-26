@@ -1,2 +1,3 @@
 # browser-binary-viewer
-view binary from friles in a browser
+view binary, and text encoding, from files in a browser.
+
